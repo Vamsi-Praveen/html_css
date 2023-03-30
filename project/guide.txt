@@ -1,0 +1,6 @@
+for icons sizing use
+	font-size
+for icon colors
+	color
+
+use background image love.jpg rather than pink color
